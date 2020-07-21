@@ -1,3 +1,3 @@
 module.exports ={
-    publicPath:"validation_test"
+    publicPath: "validation_test"
 }
